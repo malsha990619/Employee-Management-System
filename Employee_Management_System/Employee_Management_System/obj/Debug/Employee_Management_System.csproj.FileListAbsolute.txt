@@ -1,0 +1,10 @@
+G:\ADBMS & C#\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe.config
+G:\ADBMS & C#\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe
+G:\ADBMS & C#\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.pdb
+G:\ADBMS & C#\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.AssemblyReference.cache
+G:\ADBMS & C#\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.Form1.resources
+G:\ADBMS & C#\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+G:\ADBMS & C#\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.GenerateResource.cache
+G:\ADBMS & C#\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.csproj.CoreCompileInputs.cache
+G:\ADBMS & C#\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.exe
+G:\ADBMS & C#\Employee_Management_System\Employee_Management_System\obj\Debug\Employee_Management_System.pdb
